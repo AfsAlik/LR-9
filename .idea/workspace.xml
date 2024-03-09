@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e34b71b-020f-43e8-b30b-f0d918597ed3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LR9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_1/Ex_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_2/Ex_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_2/Ex_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR9/Task_2/Ex_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dRnyxujYlucRyFKed1FD8lwTBD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Ucheba\JavaApp\Semest_1_JAVA\LR9\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LR9.Task_2" />
+      <recent name="LR9.Task_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LR9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e34b71b-020f-43e8-b30b-f0d918597ed3" name="Changes" comment="" />
+      <created>1709980022488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709980022488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
