@@ -1,30 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e34b71b-020f-43e8-b30b-f0d918597ed3" name="Changes" comment="Выполнение практической работы №10">
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/ArrayDeques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/ArrayLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/LinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/TreeSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR11/Number6/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR12/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR12/Ex2po10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR13/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1000.java" afterDir="false" />
+    <list default="true" id="8e34b71b-020f-43e8-b30b-f0d918597ed3" name="Changes" comment="Выполнение практических с 11 по 15">
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1264.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1319.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1586.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1639.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1785.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1787.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1820.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1877.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1924.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_2001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_2012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_2023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_2066.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_2100.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713014811833</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Выполнение практических с 11 по 15">
+      <created>1716642777117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716642777117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Выполнение практической работы №9" />
     <MESSAGE value="Выполнение практической работы №10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выполнение практической работы №10" />
+    <MESSAGE value="Выполнение практических с 11 по 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Выполнение практических с 11 по 15" />
   </component>
 </project>
