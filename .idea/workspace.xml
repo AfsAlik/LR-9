@@ -2,26 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e34b71b-020f-43e8-b30b-f0d918597ed3" name="Changes" comment="Выполнение практической работы №10">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_1/XmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_2/DeleteFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_2/FilmSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_2/JsonCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_2/JsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_2/NewFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_3/LinkParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_3/NewsParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_3/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_4/ExampleExcel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_4/ReadExcelFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LR10/Example_4/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number3/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/ArrayDeques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/ArrayLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/LinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number5/TreeSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR11/Number6/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR12/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR12/Ex2po10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LR13/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus/Task_1000.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_semestr_lab_KND.iml" beforeDir="false" afterPath="$PROJECT_DIR$/2_semestr_lab_KND.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +51,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/Обучение УРФУ/2 ПОПЫТКА/Программирование/Практические работы/ПР10/json-simple-1.1.1.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Ucheba/JavaApp/Semest_1_JAVA/LR9/src/LR11&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ucheba\JavaApp\Semest_1_JAVA\LR9\src\LR11" />
       <recent name="E:\Ucheba\JavaApp\Semest_1_JAVA\LR9\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -110,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710174449483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Выполнение практической работы №10">
+      <created>1713014811833</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713014811833</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
